@@ -1,5 +1,5 @@
 # Notes
-This is a public repository of my LaTex notes, cheatsheets and other useful documents I created while learning. Much of this was created during my pursuit of [OMSCS](https://omscs.gatech.edu/) at Georgia Tech, but there are also a few documents from my independent learning pursuits. 
+This is a public repository of my LaTex notes, cheatsheets and other useful documents I created while learning. Much of this was created during my pursuit of [OMSCS](https://omscs.gatech.edu/) at Georgia Tech, but I may add a few from my independent learning efforts. 
 
 Currently, the repository hosts my notes for CS7210- Distributed Computing for OMSCS Georgia Tech. 
 It also hosts my hand-written notes and a few other resources I created for CS6260- Applied Cryptography.
